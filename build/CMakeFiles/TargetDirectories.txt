@@ -1,0 +1,9 @@
+/home/zk02/Downloads/stairDetection/build/CMakeFiles/rebuild_cache.dir
+/home/zk02/Downloads/stairDetection/build/CMakeFiles/edit_cache.dir
+/home/zk02/Downloads/stairDetection/build/CMakeFiles/result.dir
+/home/zk02/Downloads/stairDetection/build/rs2/CMakeFiles/edit_cache.dir
+/home/zk02/Downloads/stairDetection/build/rs2/CMakeFiles/rebuild_cache.dir
+/home/zk02/Downloads/stairDetection/build/rs2/CMakeFiles/rs2.dir
+/home/zk02/Downloads/stairDetection/build/stairperception/CMakeFiles/edit_cache.dir
+/home/zk02/Downloads/stairDetection/build/stairperception/CMakeFiles/rebuild_cache.dir
+/home/zk02/Downloads/stairDetection/build/stairperception/CMakeFiles/stairperception.dir
